@@ -1,4 +1,3 @@
-### Mobile Developer
 
 ![ZeManciliano GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeManciliano&show_icons=true&theme=codeSTACKr)
 
